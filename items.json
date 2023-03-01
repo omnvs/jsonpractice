@@ -1,0 +1,62 @@
+[
+    {
+      "season_title": "",
+      "release_date": "",
+      "number_of_eps": "",
+      "rating": ""
+    },
+    {
+      "season_title": "Season 1",
+      "release_date": 1989,
+      "number_of_eps": 5,
+      "rating": "89%"
+    },
+    {
+      "season_title": "Season 2",
+      "release_date": 1991,
+      "number_of_eps": 12,
+      "rating": "100%"
+    },
+    {
+      "season_title": "Season 3",
+      "release_date": 1991,
+      "number_of_eps": 23,
+      "rating": "100%"
+    },
+    {
+      "season_title": "Season 4",
+      "release_date": 1992,
+      "number_of_eps": 24,
+      "rating": "100%"
+    },
+    {
+      "season_title": "Season 5",
+      "release_date": 1993,
+      "number_of_eps": 22,
+      "rating": "100%"
+    },
+    {
+      "season_title": "Season 6",
+      "release_date": 1994,
+      "number_of_eps": 24,
+      "rating": "80%"
+    },
+    {
+      "season_title": "Season 7",
+      "release_date": 1995,
+      "number_of_eps": 24,
+      "rating": "100%"
+    },
+    {
+      "season_title": "Season 8",
+      "release_date": 1996,
+      "number_of_eps": 22,
+      "rating": "86%"
+    },
+    {
+      "season_title": "Season 9",
+      "release_date": 1997,
+      "number_of_eps": 24,
+      "rating": "61%"
+    }
+]
